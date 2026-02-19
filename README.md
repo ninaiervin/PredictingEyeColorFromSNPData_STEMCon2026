@@ -9,6 +9,7 @@ Please follow these steps:
 5. Upload the .ipynb file as a new project in Google Colab
    <img width="628" height="492" alt="image" src="https://github.com/user-attachments/assets/dd4d4a39-2969-430d-91ff-1d282def5023" />
 7. Upload the .csv file in that project under the files tab on the left
+   
    <img width="268" height="276" alt="image" src="https://github.com/user-attachments/assets/28c73436-757d-4b2d-ab27-975d9263749a" />
 
 
