@@ -1,3 +1,5 @@
+[CLICK HERE](https://mybinder.org/v2/gh/ninaiervin/PredictingEyeColorFromSNPData_STEMCon2026/HEAD)
+
 # Predicting Eye Color from SNP Data Using ML
 
 ## Please Follow These Steps for STEM Con 2026:
